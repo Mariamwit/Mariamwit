@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab/tree/main)
  - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
 
 <h2>📺 Certifications </h2>
