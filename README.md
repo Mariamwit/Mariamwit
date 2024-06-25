@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Encrypted Messaging App](https://github.com/Mariam/Directory/tree/main)
+  - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
  - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
 
 <h2>📺 Certifications </h2>
