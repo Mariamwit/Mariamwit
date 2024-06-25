@@ -1,4 +1,4 @@
-<h1>Hi, I'm Maria! <br/> <a href="https://linkedin.com/in/mariamwit-girma-562437233//">Cybersecurity Graduate Student</a> </h1>
+<h1> Welcome! <br/> <a href="https://linkedin.com/in/mariamwit-girma-562437233//">Cybersecurity Student</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
