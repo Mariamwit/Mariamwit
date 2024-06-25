@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab/tree/main)
+  - [Encrypted Messaging App](https://github.com/Mariam/Directory/tree/main)
  - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
 
 <h2>📺 Certifications </h2>
@@ -22,7 +22,7 @@
 [linkedin]: https://www.linkedin.com/in/mariamwit-girma-562437233/
 
 <!--
-**mariamwit/mariamwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mariam/mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
