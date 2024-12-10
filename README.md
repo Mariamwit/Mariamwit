@@ -8,6 +8,7 @@
 
 <h2>📺 Certifications </h2>
 
+- [Operationalizing Cloud Security with Deepfence ThreatMapper](www.udacity.com/certificate/e/389aa194-3819-11ef-a606-1bcbc23ec9be)
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/records/9BZZHWZ6MWXG)
 - [Google AI Essentials](https://www.coursera.org/account/accomplishments/records/MV49LQ6AMALA)
 - [Digital Forensics Essentials (DFE)](https://www.coursera.org/account/accomplishments/records/BF5T4RABK7CE)
@@ -19,7 +20,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/mariamwit-girma-562437233/
+[linkedin]: https://www.linkedin.com/in/mariamwit-g-2a77b6340/
 
 <!--
 **mariam/mariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
