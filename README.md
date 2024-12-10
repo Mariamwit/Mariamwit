@@ -1,6 +1,6 @@
-<h1> Welcome! <br/> <a href="https://linkedin.com/in/mariamwit-girma-562437233//">Cybersecurity Student</a> </h1>
+<h1> Welcome! <br/> <a href="https://linkedin.com/in/mariamwit-girma-562437233//"> Cybersecurity </a> </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 
   - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
