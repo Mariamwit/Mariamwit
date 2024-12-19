@@ -1,4 +1,4 @@
-<h1> Welcome! <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> ** </a> </h1>
+<h1> Welcome! <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> *** </a> </h1>
 
 <h2>👨‍💻 Projects:</h2>
 
