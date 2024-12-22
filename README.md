@@ -1,7 +1,7 @@
 <h1> *** <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Graduate Student </a> </h1>
 
 <h2>👨‍💻 Projects:</h2>
-  
+  - [Image Classification using CNN Deep Learing Model](https://github.com/Mariamwit/Image-Classification/blob/main/README.md)
   - [HMAC (Keyed-hash Message Authentication Code) using SHA-512 as the building block](https://github.com/Mariamwit/HMAC/blob/main/README.md)
   - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
  - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
