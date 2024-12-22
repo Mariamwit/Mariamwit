@@ -9,7 +9,7 @@
 <h2>📺 Certifications </h2>
 
 - [AI Programming with Python Nanodegree ](https://www.udacity.com/certificate/e/1951ab78-8b40-11ef-aa52-67cdde7dda33)
-- [Operationalizing Cloud Security with Deepfence ThreatMapper](www.udacity.com/certificate/e/389aa194-3819-11ef-a606-1bcbc23ec9be)
+- [Operationalizing Cloud Security with Deepfence ThreatMapper](https://www.udacity.com/certificate/e/389aa194-3819-11ef-a606-1bcbc23ec9be)
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/records/9BZZHWZ6MWXG)
 - [Google AI Essentials](https://www.coursera.org/account/accomplishments/records/MV49LQ6AMALA)
 - [Digital Forensics Essentials (DFE)](https://www.coursera.org/account/accomplishments/records/BF5T4RABK7CE)
