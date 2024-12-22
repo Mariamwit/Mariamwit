@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+  - [Image-Classifier-with-Deep-Learning and building a command line application](https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)
+
   - [Image Classification using CNN Deep Learing Model](https://github.com/Mariamwit/Image-Classification/blob/main/README.md)
     
   - [HMAC (Keyed-hash Message Authentication Code) using SHA-512 as the building block](https://github.com/Mariamwit/HMAC/blob/main/README.md)
