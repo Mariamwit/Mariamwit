@@ -8,6 +8,8 @@
     
   - [HMAC (Keyed-hash Message Authentication Code) using SHA-512 as the building block](https://github.com/Mariamwit/HMAC/blob/main/README.md)
   - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
+
+  - [Creating Dictionary of Words ](https://github.com/Mariamwit/creates-a-dictionary-of-words/blob/main/README.md)
     
   - [Weighted Grade Calculator](https://github.com/Mariamwit/Weighted-Grade-Calculator/blob/main/README.md)
      
