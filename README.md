@@ -8,7 +8,9 @@
     
   - [HMAC (Keyed-hash Message Authentication Code) using SHA-512 as the building block](https://github.com/Mariamwit/HMAC/blob/main/README.md)
   - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
-
+    
+  - [Weighted Grade Calculator](https://github.com/Mariamwit/Weighted-Grade-Calculator/blob/main/README.md)
+     
   - [Resistance Calculation ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
     
  - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
