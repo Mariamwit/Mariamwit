@@ -1,8 +1,5 @@
 <h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Graduate Student </a> </h1>
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
 
 I am a cybersecurity professional with over a year of hands-on experience in security monitoring, incident detection, and deploying cryptographic techniques. Iam experienced in using SIEM tools, penetration testing, and automating threat detection. I am proficient in network security protocols, patch management, and reverse engineering.
 
@@ -59,9 +56,11 @@ I am currently pursuing a Master of Science in Cybersecurity. I am eager to join
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Programming Language
+### Programming Languages
 <div>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://imgur.com/xXxJtWS.png" height="10%" width="10%" alt="Encrypted messaging app steps"/>
+    <img src="https://imgur.com/VuKLit8.png" height="10%" width="10%" alt="Encrypted messaging app steps"/>
+    <img src="https://imgur.com/rdWhnPa.png" height="10%" width="10%" alt="Encrypted messaging app steps"/>
 </div>
 
 <h2> 🤳 Connect with me:</h2>
