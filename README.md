@@ -1,7 +1,7 @@
 <h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Graduate Student </a> </h1>
 
 
-I am a cybersecurity professional with over a year of hands-on experience in security monitoring, incident detection, and deploying cryptographic techniques. Iam experienced in using SIEM tools, penetration testing, and automating threat detection. I am proficient in network security protocols, patch management, and reverse engineering.
+I am a cybersecurity professional with over a year of hands-on experience in security monitoring, incident detection, and deploying cryptographic techniques. I am experienced in using SIEM tools, penetration testing, and automating threat detection. I am proficient in network security protocols, patch management, and reverse engineering.
 
 ## Objective
 I am currently pursuing a Master of Science in Cybersecurity. I am eager to join a Security Operations Center (SOC).
@@ -37,13 +37,17 @@ I am currently pursuing a Master of Science in Cybersecurity. I am eager to join
 
 <h2>📺 Certifications </h2>
 
-- [AI Programming with Python Nanodegree ](https://www.udacity.com/certificate/e/1951ab78-8b40-11ef-aa52-67cdde7dda33)
-- [Operationalizing Cloud Security with Deepfence ThreatMapper](https://www.udacity.com/certificate/e/389aa194-3819-11ef-a606-1bcbc23ec9be)
+- [Microsoft Learn Challenge - Ignite Edition: Secure your data in the age of AI ](https://learn.microsoft.com/en-us/users/filfilemariamwitgirma-1303/achievements/uyker2l3?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Cisco - Introduction to Cybersecurity ](https://www.credly.com/badges/562a514a-17e6-4721-8bec-c8bef8125520/linked_in_profile)
+- [Mastercard - Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_p6cWxNfGRcBHwokw9_1735182680519_completion_certificate.pdf)
+- [AIG - Shields Up: Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_p6cWxNfGRcBHwokw9_1735184311792_completion_certificate.pdf)
+- [Udacity - AI Programming with Python Nanodegree ](https://www.udacity.com/certificate/e/1951ab78-8b40-11ef-aa52-67cdde7dda33) 
+- [Udacity - Operationalizing Cloud Security with Deepfence ThreatMapper](https://www.udacity.com/certificate/e/389aa194-3819-11ef-a606-1bcbc23ec9be)
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/records/9BZZHWZ6MWXG)
-- [Google AI Essentials](https://www.coursera.org/account/accomplishments/records/MV49LQ6AMALA)
-- [Digital Forensics Essentials (DFE)](https://www.coursera.org/account/accomplishments/records/BF5T4RABK7CE)
-- [Ethical Hacking Essentials (EHE)](https://www.coursera.org/account/accomplishments/records/S6MX9R63DC69)
-- [Network Defense Essentials (NDE)](https://www.coursera.org/account/accomplishments/records/FADCTK22QBTR)
+- [Google - Google AI Essentials](https://www.coursera.org/account/accomplishments/records/MV49LQ6AMALA)
+- [EC Council - Digital Forensics Essentials (DFE)](https://www.coursera.org/account/accomplishments/records/BF5T4RABK7CE)
+- [EC Council - Ethical Hacking Essentials (EHE)](https://www.coursera.org/account/accomplishments/records/S6MX9R63DC69)
+- [EC Council - Network Defense Essentials (NDE)](https://www.coursera.org/account/accomplishments/records/FADCTK22QBTR)
 
 ## Tools
 ### Network
@@ -54,6 +58,8 @@ I am currently pursuing a Master of Science in Cybersecurity. I am eager to join
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://imgur.com/Dy2o8xc.png" height="10%" width="10%" alt="Encrypted messaging app steps"/>
+  
 </div>
 
 ### Programming Languages
