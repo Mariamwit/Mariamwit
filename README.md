@@ -14,12 +14,12 @@ I am currently pursuing a Master of Science in Cybersecurity. I am eager to join
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Deep Learning and Data Processing         | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="SIEM"> SIEM </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Deep Learning and Data Processing         | <a href="https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md"> Deep Learning </a>|
+| CNN Deep Learning Model      | <a href="https://github.com/Mariamwit/Image-Classification/blob/main/README.md"> CNN Deep Learning </a>|
+| Message Authentication                  | <a href="https://github.com/Mariamwit/HMAC/blob/main/README.md"> Authentication </a>|
+
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -47,6 +47,22 @@ I am currently pursuing a Master of Science in Cybersecurity. I am eager to join
 - [Digital Forensics Essentials (DFE)](https://www.coursera.org/account/accomplishments/records/BF5T4RABK7CE)
 - [Ethical Hacking Essentials (EHE)](https://www.coursera.org/account/accomplishments/records/S6MX9R63DC69)
 - [Network Defense Essentials (NDE)](https://www.coursera.org/account/accomplishments/records/FADCTK22QBTR)
+
+## Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Programming Language
+<div>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 <h2> 🤳 Connect with me:</h2>
 
