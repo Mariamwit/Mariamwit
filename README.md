@@ -1,4 +1,25 @@
-<h1> *** <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Graduate Student </a> </h1>
+<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Graduate Student </a> </h1>
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+I am a cybersecurity professional with over a year of hands-on experience in security monitoring, incident detection, and deploying cryptographic techniques. Iam experienced in using SIEM tools, penetration testing, and automating threat detection. I am proficient in network security protocols, patch management, and reverse engineering.
+
+## Objective
+I am currently pursuing a Master of Science in Cybersecurity. I am eager to join a Security Operations Center (SOC).
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Deep Learning and Data Processing         | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
+| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
 
 <h2>👨‍💻 Projects:</h2>
 
