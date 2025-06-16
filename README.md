@@ -1,10 +1,10 @@
-<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Graduate Student </a> </h1>
+<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> cybersecurity professional  </a> </h1>
 
 
 I am a cybersecurity professional with over a year of hands-on experience in security monitoring, incident detection, and deploying cryptographic techniques. I am experienced in using SIEM tools, penetration testing, and automating threat detection. I am proficient in network security protocols, patch management, and reverse engineering.
 
 ## Objective
-I am currently pursuing a Master of Science in Cybersecurity. I am eager to join a Security Operations Center (SOC).
+ I am eager to join a Security Operations Center (SOC).
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
