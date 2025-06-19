@@ -1,10 +1,8 @@
-<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> cybersecurity professional  </a> </h1>
+<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity | Software Developer  </a> </h1>
 
 
-I am a cybersecurity professional with over a year of hands-on experience in security monitoring, incident detection, and deploying cryptographic techniques. I am experienced in using SIEM tools, penetration testing, and automating threat detection. I am proficient in network security protocols, patch management, and reverse engineering.
+Results-driven professional with a solid foundation in system administration, software development, and security operations. I have hands-on experience administering secure systems, developing web-based applications, and automating IT processes.
 
-## Objective
- I am eager to join a Security Operations Center (SOC).
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
