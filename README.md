@@ -7,7 +7,7 @@ Results-driven professional with a solid foundation in system administration, so
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="SIEM"> SIEM </a>|
 | Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
@@ -18,20 +18,29 @@ Results-driven professional with a solid foundation in system administration, so
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Image-Classifier-with-Deep-Learning and building a command line application](https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)
+- [Build a ML Workflow For Scones Unlimited On Amazon SageMaker ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
 
-  - [Image Classification using CNN Deep Learning Model](https://github.com/Mariamwit/Image-Classification/blob/main/README.md)
-    
-  - [HMAC (Keyed-hash Message Authentication Code) using SHA-512 as the building block](https://github.com/Mariamwit/HMAC/blob/main/README.md)
-  - [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
+- [Landmark Classification & Tagging for Social Media ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
+ 
+- [Developing a Handwritten Digits Classifier with PyTorch ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
+   
+- [Predict Bike Sharing Demand with AutoGluon ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
 
-  - [Creating Dictionary of Words ](https://github.com/Mariamwit/creates-a-dictionary-of-words/blob/main/README.md)
+- [Image-Classifier-with-Deep-Learning and Building a Command Line Application](https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)
+
+- [Image Classification Using CNN Deep Learning Model](https://github.com/Mariamwit/Image-Classification/blob/main/README.md)
     
-  - [Weighted Grade Calculator](https://github.com/Mariamwit/Weighted-Grade-Calculator/blob/main/README.md)
+- [HMAC (Keyed-hash Message Authentication Code) Using SHA-512 as the Building Block](https://github.com/Mariamwit/HMAC/blob/main/README.md)
+
+- [Encrypted Messaging App](https://github.com/Mariamwit/Active-Directory-Lab)
+
+- [Creating Dictionary of Words ](https://github.com/Mariamwit/creates-a-dictionary-of-words/blob/main/README.md)
+    
+- [Weighted Grade Calculator](https://github.com/Mariamwit/Weighted-Grade-Calculator/blob/main/README.md)
      
-  - [Resistance Calculation ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
+- [Resistance Calculation ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
     
- - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
+- [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
 
 <h2>📺 Certifications </h2>
 
