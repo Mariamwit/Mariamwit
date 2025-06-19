@@ -18,7 +18,7 @@ Results-driven professional with a solid foundation in system administration, so
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Image-Classifier-with-Deep-Learning and building a command line application](https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)
+- [Image-Classifier-with-Deep-Learning and building a command line application](https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)
 
   - [Image Classification using CNN Deep Learning Model](https://github.com/Mariamwit/Image-Classification/blob/main/README.md)
     
@@ -35,11 +35,16 @@ Results-driven professional with a solid foundation in system administration, so
 
 <h2>📺 Certifications </h2>
 
+ - [Udacity - AWS Machine Learning Fundamentals - Nanodegree ](https://www.udacity.com/certificate/e/b312bd30-2936-11f0-99e9-dbadde713fc3)
+
+- [Udacity - AI Programming with Python - Nanodegree ](https://www.udacity.com/certificate/e/1951ab78-8b40-11ef-aa52-67cdde7dda33) 
+ 
 - [Microsoft Learn Challenge - Ignite Edition: Secure your data in the age of AI ](https://learn.microsoft.com/en-us/users/filfilemariamwitgirma-1303/achievements/uyker2l3?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  
 - [Cisco - Introduction to Cybersecurity ](https://www.credly.com/badges/562a514a-17e6-4721-8bec-c8bef8125520/linked_in_profile)
 - [Mastercard - Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_p6cWxNfGRcBHwokw9_1735182680519_completion_certificate.pdf)
 - [AIG - Shields Up: Cybersecurity Job Simulation ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_p6cWxNfGRcBHwokw9_1735184311792_completion_certificate.pdf)
-- [Udacity - AI Programming with Python Nanodegree ](https://www.udacity.com/certificate/e/1951ab78-8b40-11ef-aa52-67cdde7dda33) 
+
 - [Udacity - Operationalizing Cloud Security with Deepfence ThreatMapper](https://www.udacity.com/certificate/e/389aa194-3819-11ef-a606-1bcbc23ec9be)
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/records/9BZZHWZ6MWXG)
 - [Google - Google AI Essentials](https://www.coursera.org/account/accomplishments/records/MV49LQ6AMALA)
