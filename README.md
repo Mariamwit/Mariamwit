@@ -24,7 +24,7 @@ Results-driven professional with a solid foundation in system administration, so
  
 - [Developing a Handwritten Digits Classifier with PyTorch ](https://github.com/Mariamwit/Digit-Classifier-Project)
    
-- [Predict Bike Sharing Demand with AutoGluon ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
+- [Predict Bike Sharing Demand with AutoGluon ]( https://github.com/Mariamwit/Predict-Bike-Sharing-Demand-with-AutoGluon)
 
 - [Image-Classifier-with-Deep-Learning and Building a Command Line Application](https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)
 
