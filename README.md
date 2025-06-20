@@ -20,7 +20,7 @@ Results-driven professional with a solid foundation in system administration, so
 
 - [Build a ML Workflow For Scones Unlimited On Amazon SageMaker ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
 
-- [Landmark Classification & Tagging for Social Media ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
+- [Landmark Classification & Tagging for Social Media ](https://github.com/Mariamwit/Landmark-Classification-Tagging-for-Social-Media)
  
 - [Developing a Handwritten Digits Classifier with PyTorch ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
    
