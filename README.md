@@ -1,4 +1,4 @@
-<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity | Software Developer  </a> </h1>
+<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Professional | Software Developer  </a> </h1>
 
 
 Results-driven professional with a solid foundation in system administration, software development, and security operations. I have hands-on experience administering secure systems, developing web-based applications, and automating IT processes.
