@@ -22,7 +22,7 @@ Results-driven professional with a solid foundation in system administration, so
 
 - [Landmark Classification & Tagging for Social Media ](https://github.com/Mariamwit/Landmark-Classification-Tagging-for-Social-Media)
  
-- [Developing a Handwritten Digits Classifier with PyTorch ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
+- [Developing a Handwritten Digits Classifier with PyTorch ](https://github.com/Mariamwit/Digit-Classifier-Project)
    
 - [Predict Bike Sharing Demand with AutoGluon ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
 
