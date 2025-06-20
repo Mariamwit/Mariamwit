@@ -5,7 +5,7 @@ Results-driven professional with a solid foundation in system administration, so
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
