@@ -1,4 +1,4 @@
-<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Professional | Software Developer  </a> </h1>
+<h1>  <br/> <a href="[https://www.linkedin.com/in/mariamwit-g-2a77b6340//"> Cybersecurity Professional | Software Developer | Artificial Intelligence (AI)   </a> </h1>
 
 
 Results-driven professional with a solid foundation in system administration, software development, and security operations.  Hands-on experience administering secure systems, developing web-based applications, and automating IT processes. Proficient in Java, with practical knowledge of tools such as NetBeans, Eclipse, CI/CD pipelines, and SIEM solutions. Excel at evaluating system requirements, designing secure and scalable architectures, and delivering high-quality, maintainable code.  
