@@ -4,18 +4,6 @@
 Results-driven professional with a solid foundation in system administration, software development, and security operations. I have hands-on experience administering secure systems, developing web-based applications, and automating IT processes.
 
 
-## Skills
-
-
-| Skills                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="SIEM"> SIEM </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Deep Learning and Data Processing         | <a href="https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md"> Deep Learning </a>|
-| CNN Deep Learning Model      | <a href="https://github.com/Mariamwit/Image-Classification/blob/main/README.md"> CNN Deep Learning </a>|
-| Message Authentication                  | <a href="https://github.com/Mariamwit/HMAC/blob/main/README.md"> Authentication </a>|
-
-
 <h2>👨‍💻 Projects:</h2>
 
 - [Build a ML Workflow For Scones Unlimited On Amazon SageMaker ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
@@ -39,6 +27,26 @@ Results-driven professional with a solid foundation in system administration, so
 - [Weighted Grade Calculator](https://github.com/Mariamwit/Weighted-Grade-Calculator/blob/main/README.md)
     
 - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
+
+## Skills
+
+| Skills                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="SIEM"> SIEM </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Deep Learning and Data Processing         | <a href="https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md"> Deep Learning </a>|
+| CNN Deep Learning Model      | <a href="https://github.com/Mariamwit/Image-Classification/blob/main/README.md"> CNN Deep Learning </a>|
+| Message Authentication                  | <a href="https://github.com/Mariamwit/HMAC/blob/main/README.md"> Authentication </a>|
 
 <h2>📺 Certifications </h2>
 
