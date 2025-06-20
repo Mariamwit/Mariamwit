@@ -37,8 +37,6 @@ Results-driven professional with a solid foundation in system administration, so
 - [Creating Dictionary of Words ](https://github.com/Mariamwit/creates-a-dictionary-of-words/blob/main/README.md)
     
 - [Weighted Grade Calculator](https://github.com/Mariamwit/Weighted-Grade-Calculator/blob/main/README.md)
-     
-- [Resistance Calculation ](https://github.com/Mariamwit/Resistance/blob/main/README.md)
     
 - [Data Encryption using AWS KMS From UST](https://www.coursera.org/account/accomplishments/records/RF83SLPP9SCU)
 
