@@ -33,16 +33,11 @@ Results-driven professional with a solid foundation in system administration, so
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="SIEM"> SIEM </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
-| Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
+| Model Training  | <a href="https://github.com/Mariamwit/Resistance/blob/main/README.md"> Machine Learning </a>|
+| AWS SageMaker  | <a href="https://github.com/Mariamwit/Resistance/blob/main/README.md"> AWS </a>|
+| Convolutional Neural Networks (CNN)  | <a href="https://github.com/Mariamwit/Image-Classification/blob/main/README.md"> CNN </a>|
+| AI business contex  | <a href="https://github.com/Mariamwit/Resistance/blob/main/README.md"> AI Business </a>|
+| Artificial Intelligence (AI)  | <a https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md)"> AI </a>|
 | Cryptography  | <a href="https://github.com/Mariamwit/Active-Directory-Lab"> Cryptography </a>|
 | Deep Learning and Data Processing         | <a href="https://github.com/Mariamwit/Image-Classifier-with-Deep-Learning/blob/main/README.md"> Deep Learning </a>|
 | CNN Deep Learning Model      | <a href="https://github.com/Mariamwit/Image-Classification/blob/main/README.md"> CNN Deep Learning </a>|
